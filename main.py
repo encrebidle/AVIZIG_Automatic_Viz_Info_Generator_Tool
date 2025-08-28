@@ -10,7 +10,7 @@ load_dotenv()
 os.makedirs("data", exist_ok=True)
 
 st.set_page_config(
-    page_title="Automatic Visualizations and Infographics Generator",
+    page_title="Automatic Visualisations and Infographics Generator",
     page_icon="📊",
 )
 
